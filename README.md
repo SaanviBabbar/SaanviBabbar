@@ -8,7 +8,7 @@ I am a **B.Tech Computer Science and Engineering (Core)** student. I love solvin
 - ✍️ Fun Fact: My pen name is **Esbee**! I was the President of my school's Debate Club, and I write poetry in my free time.
   
 ## 🛠️ Tech Stack & Skills
-- **Languages I'm Learning:** ![Python]
+- **Languages I'm Learning:** [Python]
 - **Soft Skills:** Public Speaking, Leadership, Critical Thinking, Creative Writing
   
 ---
