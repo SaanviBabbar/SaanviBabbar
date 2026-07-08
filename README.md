@@ -1,3 +1,7 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=50&duration=2500&pause=500&color=B92EF7&width=500&height=100&lines=Welcome+To+My+Page)](https://git.io/typing-svg)
+
 # Hi there, I'm Saanvi Babbar (Esbee)! 
 
 I am a **B.Tech Computer Science and Engineering (Core)** student. I love solving problems, whether it is through logic and code, structure in a debate, or rhythm in a poem.
@@ -16,3 +20,4 @@ I am a **B.Tech Computer Science and Engineering (Core)** student. I love solvin
 
 
 ![snake gif](https://github.com/SaanviBabbar/SaanviBabbar/blob/output/github-snake-dark.svg)
+</div>
