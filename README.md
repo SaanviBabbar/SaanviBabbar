@@ -16,8 +16,7 @@ I am a **B.Tech Computer Science and Engineering (Core)** student. I love solvin
 - **Soft Skills:** Public Speaking, Leadership, Critical Thinking, Creative Writing
   
 ---
-📫 **How to reach me:** [linkedin.com/in/saanvi-babbar-a757aa3ba]
-
+📫 **How to reach me:** <a href="https://linkedin.com">LinkedIn</a>
 
 ![snake gif](https://github.com/SaanviBabbar/SaanviBabbar/blob/output/github-snake-dark.svg)
 </div>
