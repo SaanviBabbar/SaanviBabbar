@@ -14,5 +14,3 @@ I am a **B.Tech Computer Science and Engineering (Core)** student. I love solvin
 ---
 📫 **How to reach me:** [linkedin.com/in/saanvi-babbar-a757aa3ba]
 
-
-![Snake animation](https://github.com/SaanviBabbar/SaanviBabbar/blob/output/github-contribution-grid-snake.svg)
